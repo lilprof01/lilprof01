@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilprof01
-- 👀 I’m interested in having more knowledge in coding
-- 🌱 I’m currently learning html,css and javascript
+- 👀 I’m interested in getting more knowledge in the techWorld
+- 🌱 I’m currently learning reactJS and other front-end frameworks
 - 💞️ I’m looking to collaborate on making creative and reactive webpages
 - 📫 How to reach me, on Whatsapp (08141745050) or Adewumime@gmail.com 
 
