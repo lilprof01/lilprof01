@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aniyajuwon 
+# - 👋 Hi, I’m Aniyajuwon 
 - 👀 I’m interested in getting more knowledge in the techWorld
 - 🌱 I’m currently learning reactJS and other front-end frameworks
 - 💞️ I’m looking to collaborate on making creative and reactive webpages
